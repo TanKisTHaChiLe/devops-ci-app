@@ -1,0 +1,6 @@
+---
+app_image: "ghcr.io/tankisthachile/devops-ci-app"
+app_tag: "6862f919e29f13f94f5a20c85dd3832349bfc0e4"
+app_container_name: "devops-ci-app"
+app_host_port: 5000
+app_internal_port: 5000
