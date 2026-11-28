@@ -142,7 +142,7 @@ jobs:
       cancel-in-progress: false
 
     env:
-      VM_HOST: 192.168.56.101
+      VM_HOST: 192.168.56.2
 
     steps:
       - name: Checkout
